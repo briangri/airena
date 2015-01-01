@@ -1,0 +1,12 @@
+{
+	"0": {
+		"num_players": 1,
+		"directory": "guess_the_number",
+		"player_filename": "guess_the_number_player.py"
+	},
+	"1": {
+		"num_players": 1,
+		"directory": "sort",
+		"player_filename": "sorting_game_player.py"
+	}
+}
